@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=V1_3.3 Pin=C4-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=\ Pin=C?-2
+Remove Pin from Net: Failed to remove Pin
+Change Component Comment : Designator=R? Old Comment=2K4 New Comment=5K1
+Change Component Comment : Designator=C4 Old Comment=104 New Comment=105
+Change Component Designator: OldDesignator=C1 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Change Component Designator: OldDesignator=L2 NewDesignator=L1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=USB-C NewDesignator=USB-C1
+Added Component: Designator=C1(CAPC2012X88N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805F104K5RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805F104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805F104K5RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2012X88N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805F104K5RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805F104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805F104K5RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2012X88N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805F104K5RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805F104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805F104K5RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V1_3.3 Pin=C1-1
+Added Pin To Net: NetName=\ Pin=C1-2
+Added Pin To Net: NetName=V1_3.3 Pin=C2-1
+Added Pin To Net: NetName=\ Pin=C2-2
+Added Pin To Net: NetName=V1_3.3 Pin=C3-1
+Added Pin To Net: NetName=\ Pin=C3-2
+Added Pin To Net: NetName=V1_1.8 Pin=C4-1
+Added Member To Class: ClassName=Sheet1 Member=Component C2 104
+Added Member To Class: ClassName=Sheet1 Member=Component C6 104
+Added Member To Class: ClassName=Sheet1 Member=Component C7 104
+Added Member To Class: ClassName=Sheet1 Member=Component C8 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 47uF
+Added Member To Class: ClassName=Sheet1 Member=Component C10 47uF
+Added Member To Class: ClassName=Sheet1 Member=Component C11 1u
+Added Member To Class: ClassName=Sheet1 Member=Component R2 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R3 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R4 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R6 5K1

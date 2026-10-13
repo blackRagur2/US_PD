@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=V1_3.3 Pin=C?-1
+Add component: Footprint Not Found CAPC2012X88N
+Added Pin To Net: NetName=V1_3.3 Pin=C?-1
+Added Pin To Net: NetName=V2OUT Pin=C?-1
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1u
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1u
+Added Member To Class: ClassName=Sheet1 Member=Component C? 4.7u
+Added Member To Class: ClassName=Sheet1 Member=Component C? 47uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 47uF
+Added Member To Class: ClassName=Sheet1 Member=Component R? 2K4
+Added Member To Class: ClassName=Sheet1 Member=Component R? 2K4
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R? 5K1

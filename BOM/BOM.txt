@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+
+
+
+==================================================================
+
+
+DigiKey setting	Copper thickness	Typical use
+0.5 oz CU	~17–18 µm	Thin/small signal PCB
+1 oz CU	~35 µm	? Normal/general PCB
+2 oz CU	~70 µm	Higher current
+3 oz CU	~105 µm	High-current/power PCB
+
+==================================================================
+General-purpose resistors ? YAGEO
+Precision / high reliability ? Panasonic
+Automotive / harsh environment ? KOA or Panasonic
+Specialty/high-performance ? Vishay
+
+For a normal PCB BOM—such as:
+0201 / 0402 / 0603 / 0805 / 1206
+1%, 5%
+0.1 W / 0.125 W / 0.25 W
+10 O, 100 O, 1 kO, 10 kO, etc.
+
+
+==================================================================
+
+Standard chip/RF inductors ? TDK or Murata
+Power inductors ? TDK / Sumida / Taiyo Yuden
+Cost-sensitive high-volume BOM ? YAGEO/Chilisin
+High-performance/specialty ? Coilcraft or Vishay
+Automotive ? TDK / Murata / Taiyo Yuden / Sumida
+
+
+
+
+
+
+
+
+https://www.lcsc.com/category/1199.html?scene=FULL_MATCH&globalKeyword=resistor&s_z=n_q_t_resistor&spm=wm.ssy.tc.0.tz&lcsc_vid=QgJWBQZWR1FdVVcDFABfAQBWFgIIAwVXFlZdVVNVEQQxVlNeT1VcU1VVRFBWVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXQlhXSQwSGg0%3D
+
+
+
+==================================================================
+==================================================================
+==================================================================
+==================================================================

@@ -1,0 +1,14 @@
+
+me: Hi, I want to create a PCB layout myself using the 
+  components provided by PCBWay and then order a prototype. 
+  However, I can't find the list of components anywhere.
+
+he: Sorry, we don't have any components in stock
+  We only purchase components according to your BOM from our channels
+
+me: Then, which website would you recommend for sourcing the components?
+
+he: digikey, mouser, LSCS. sorry, LCSC
+
+
+

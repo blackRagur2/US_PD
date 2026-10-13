@@ -1,0 +1,23 @@
+explain simply key feature of TI TPS61236P
+what is hardware method to set charge current of TI BQ24138
+what is hardware method to set boost current of TI BQ24138
+speak simply How much heat is actually generated at a 3A boost load of TPS61236P?
+When does 80% efficiency occur?
+
+
+what is hardware method to set boost current of TI TPS61236P
+https://www.ti.com/product/TPS61236P
+
+
+
+explain simply key feature of BQ25638
+TPS61236P
+BQ25886
+BQ25730
+BQ25628
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C5 NewDesignator=C?
+Change Component Designator: OldDesignator=C6 NewDesignator=C1
+Change Component Designator: OldDesignator=C8 NewDesignator=C3
+Change Component Designator: OldDesignator=C9 NewDesignator=C?
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Change Component Designator: OldDesignator=L2 NewDesignator=L1
+Change Component Designator: OldDesignator=USB-C1 NewDesignator=USB-C
+Add component: Footprint Not Found CAPC2012X88N
+Add component: Footprint Not Found CAPC3216X110N
+Add component: Footprint Not Found CAPC2012X88N
+Add component: Footprint Not Found CAPC2012X88N
+Add component: Footprint Not Found CAPC2012X88N
+Add component: Footprint Not Found 0603
+Add component: Footprint Not Found 0603
+Add component: Footprint Not Found 0603
+Add component: Footprint Not Found 0603
+Add component: Footprint Not Found 0603
+Added Pin To Net: NetName=BTST Pin=C?-1
+Added Pin To Net: NetName=V1_1.8 Pin=C?-1
+Added Pin To Net: NetName=V1_3.3 Pin=C?-1
+Added Pin To Net: NetName=V2OUT Pin=C?-1
+Added Pin To Net: NetName=V2SW Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C4 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1u
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1u
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1u
+Add Class Member: Failed to add class member : Component R? 2K4
+Add Class Member: Failed to add class member : Component R? 2K4
+Add Class Member: Failed to add class member : Component R? 5K1
+Add Class Member: Failed to add class member : Component R? 5K1
+Add Class Member: Failed to add class member : Component R? 5K1
